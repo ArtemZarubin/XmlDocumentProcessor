@@ -17,13 +17,6 @@ jobs:
       uses: actions/setup-dotnet@v4
       with:
         dotnet-version: 8.0.x
-    - name: Install .NET Framework Developer Pack
-      run: |
-        wget https://dotnet.microsoft.com/download/dotnet-framework/net48 -O dotnet-framework.exe
-        chmod +x dotnet-framework.exe
-        ./dotnet-framework.exe /quiet /norestart
-
-
     - name: Restore dependencies
       run: dotnet restore
     - name: Build
