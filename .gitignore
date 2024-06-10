@@ -1,0 +1,35 @@
+# Visual Studio и общие файлы
+.vs/
+/bin/
+/obj/
+
+# Файлы сборки
+*.dll
+*.pdb
+*.exe
+
+# Файлы конфигурации
+*.config
+
+# Логи и временные файлы
+*.log
+*.tmp
+
+# Пакеты NuGet
+/packages/
+*.nupkg
+
+# Среда разработки
+*.suo
+*.user
+*.sln.cache
+*.sln.docstates
+
+# Документация
+/_site/
+/.jekyll-metadata
+
+# Игнорировать всё, что создает среда
+*.userprefs
+*.history
+*.DS_Store

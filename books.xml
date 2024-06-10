@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<library>
+  <book>
+    <title>Чиста архітектура</title>
+    <author>
+      <name>Роберт Мартін</name>
+      <affiliation>Uncle Bob Consulting LLC</affiliation>
+    </author>
+    <year>2017</year>
+    <description>Книга про принципи проектування програмного забезпечення.</description>
+  </book>
+  <book>
+    <title>Вступ до алгоритмів</title>
+    <author>
+      <name>Томас Кормен</name>
+      <affiliation>MIT</affiliation>
+    </author>
+    <year>2009</year>
+    <description>Фундаментальна книга з алгоритмів та структур даних.</description>
+  </book>
+  <book>
+    <title>Міфічний людино-місяць</title>
+    <author>
+      <name>Фредерік Брукс</name>
+      <affiliation>IBM</affiliation>
+    </author>
+    <year>1975</year>
+    <description>Класична книга про управління проектами в розробці програмного забезпечення.</description>
+  </book>
+  <book>
+    <title>Структури та інтерпретація комп'ютерних програм</title>
+    <author>
+      <name>Гарольд Абельсон</name>
+      <affiliation>MIT</affiliation>
+    </author>
+    <year>1984</year>
+    <description>Книга про основи програмування з використанням мови Scheme.</description>
+  </book>
+  <book>
+    <title>Рефакторинг</title>
+    <author>
+      <name>Мартін Фаулер</name>
+      <affiliation>ThoughtWorks</affiliation>
+    </author>
+    <year>1999</year>
+    <description>Книга про техніки покращення якості коду.</description>
+  </book>
+  <book>
+    <title>Прагматичний програміст</title>
+    <author>
+      <name>Ендрю Хант</name>
+      <affiliation>Pivotal Labs</affiliation>
+    </author>
+    <year>1999</year>
+    <description>Книга про практичні аспекти розробки програмного забезпечення.</description>
+  </book>
+  <book>
+    <title>Дизайн-патерни</title>
+    <author>
+      <name>Еріх Гамма</name>
+      <affiliation>Gang of Four</affiliation>
+    </author>
+    <year>1994</year>
+    <description>Класична книга про шаблони проектування програмного забезпечення.</description>
+  </book>
+  <book>
+    <title>Чистий код</title>
+    <author>
+      <name>Роберт Мартін</name>
+      <affiliation>Uncle Bob Consulting LLC</affiliation>
+    </author>
+    <year>2008</year>
+    <description>Книга про принципи написання чистого та підтримуваного коду.</description>
+  </book>
+  <book>
+    <title>Гнучка розробка програмного забезпечення</title>
+    <author>
+      <name>Кент Бек</name>
+      <affiliation>Three Rivers Institute</affiliation>
+    </author>
+    <year>2002</year>
+    <description>Книга про принципи та практики гнучкої розробки.</description>
+  </book>
+  <book>
+    <title>Head First Design Patterns</title>
+    <author>
+      <name>Ерік Фрімен</name>
+      <affiliation>O'Reilly Media</affiliation>
+    </author>
+    <year>2004</year>
+    <description>Книга про шаблони проектування з акцентом на візуальне навчання.</description>
+  </book>
+</library>
