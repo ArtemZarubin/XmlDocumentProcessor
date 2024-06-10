@@ -19,8 +19,9 @@ jobs:
         dotnet-version: 8.0.x
     - name: Install .NET Framework Developer Pack
       run: |
-        wget https://download.visualstudio.microsoft.com/download/pr/c3dd6d34-cdb3-4f40-981d-d60d6ebcd232/eff774d647a07d0de8d259a7d2ad7eb4/windowsdesktop-runtime-4.8.0-win-x64.exe
-        .\windowsdesktop-runtime-4.8.0-win-x64.exe /quiet /norestart
+        wget https://dotnet.microsoft.com/download/dotnet-framework/net48 -O dotnet-framework.exe
+        .\dotnet-framework.exe /quiet /norestart
+
     - name: Restore dependencies
       run: dotnet restore
     - name: Build
